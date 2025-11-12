@@ -1,2 +1,1 @@
-MIT
-Añadir
+GPL
